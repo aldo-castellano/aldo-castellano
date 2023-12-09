@@ -1,16 +1,25 @@
-### Hi there 👋
+Aldo Fabrizzio Castellano  ![](Aspose.Words.1200c867-c614-4536-8c1a-7eadc85fab69.001.png)![](Aspose.Words.1200c867-c614-4536-8c1a-7eadc85fab69.002.png)Padovani 
 
-<!--
-**aldo-castellano/aldo-castellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web - Full Stack tecnologías 
 
-Here are some ideas to get you started:
+sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 CSS3 JavaScript React JS Next js Tras años de experiencia, he tomado la 
+
+decisión de reorientar mi carrera 
+
+profesional para hacer lo que realmente 
+
+me gusta como lo es el crear cosas y mi  TypeScript Node js
+
+pasión desde muy pequeño: la 
+
+tecnología. Soy una persona a la que le 
+
+gusta avanzar y mejorar, aprendiendo 
+
+del pasado, trabajando el presente y con  PostgreSQL
+
+vista hacia el futuro.
+
+- Figm
