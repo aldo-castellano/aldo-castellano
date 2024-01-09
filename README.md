@@ -11,11 +11,10 @@
 &nbsp &nbsp &nbsp<a href="https://react.dev/" target="_blank"><img  width="40" height="40"crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/800px-React_Logo_SVG.svg.png" class="svg mw-mmv-dialog-is-open" width="544" height="503"></a>
 &nbsp &nbsp &nbsp<a href="https://nextjs.org/" target="_blank"><img alt="nextjs" class="hCL kVc L4E MIw" fetchpriority="auto" width="60" height="40" loading="auto" src="https://i.pinimg.com/564x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"/></a>
 </p>
-
+<p align="center"> 
 &nbsp &nbsp &nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp<a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" fetchpriority="high" width="111" height="33" decoding="async" data-nimg="1" style="color:transparent" src="https://nodejs.org/static/images/logo.svg"></a>
-<p align="center"> 
 &nbsp &nbsp &nbsp<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp <a href="https://www.figma.com/" target="_blank"><img  width="50" height="40"  src="https://www.pngall.com/wp-content/uploads/13/Figma-Logo-Transparent.png"></a>
 &nbsp &nbsp &nbsp<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
