@@ -12,7 +12,7 @@
 &nbsp &nbsp &nbsp<a href="https://nextjs.org/" target="_blank"><img alt="nextjs" class="hCL kVc L4E MIw" fetchpriority="auto" width="60" height="40" loading="auto" src="https://i.pinimg.com/564x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"/></a>
 </p>
 <p align="center"> 
-&nbsp &nbsp &nbsp<a href="https://www.mongodb.com/es" target="_blank"><img alt="File:MongoDB Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png 1.5x" data-file-width="512" data-file-height="138"/></a>
+&nbsp &nbsp &nbsp<a href="https://www.mongodb.com/es" target="_blank"><img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1113px; height: 166px; margin: 2px 0px; width: 617px;" alt="MongoDB Free Online Courses | Skill Finder" jsname="kn3ccd" aria-hidden="false"></a>
 &nbsp &nbsp &nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp<a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" fetchpriority="high" width="111" height="33" decoding="async" data-nimg="1" style="color:transparent" src="https://nodejs.org/static/images/logo.svg"></a>
