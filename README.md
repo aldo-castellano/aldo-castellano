@@ -17,6 +17,7 @@
 <p align="center"> 
 &nbsp &nbsp &nbsp<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 &nbsp &nbsp &nbsp <a href="https://www.figma.com/" target="_blank"><img  width="50" height="40" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.pngall.com/wp-content/uploads/13/Figma-Logo-Transparent.png"></a>
-&nbsp &nbsp &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+&nbsp &nbsp &nbsp <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 2400px; width: 695px; height: 695px; margin: 0px;" alt="TypeScript - Wikipedia, la enciclopedia libre" jsname="kn3ccd" aria-hidden="false"></a>
+&nbsp &nbsp &nbsp <a href="https://react.dev/" target="_blank"><img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/800px-React_Logo_SVG.svg.png" class="svg mw-mmv-dialog-is-open" width="544" height="503"></a>
  
 </p>
