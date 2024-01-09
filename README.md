@@ -15,7 +15,7 @@
 </p>
 <p align="center"> 
    <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" fetchpriority="high" width="111" height="33" decoding="async" data-nimg="1" style="color:transparent" src="https://nodejs.org/static/images/logo.svg"></a>
-   &nbsp &nbsp &nbsp <a href="https://www.figma.com/" target="_blank"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.pngall.com/wp-content/uploads/13/Figma-Logo-Transparent.png"></a>
+   &nbsp &nbsp &nbsp <a href="https://www.figma.com/" target="_blank"><img  width="40" height="40" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.pngall.com/wp-content/uploads/13/Figma-Logo-Transparent.png"></a>
 &nbsp &nbsp &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
  
 </p>
